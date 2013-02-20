@@ -10,9 +10,9 @@ with `vagrant`.
 
 ## How to build the boxes
 
-  vagrant basebox build <box-name>
-  # wait
-  vagrant basebox export <box-name>
+    vagrant basebox build <box-name>
+    # wait
+    vagrant basebox export <box-name>
 
 ## How to use the box
 
